@@ -87,9 +87,9 @@ jupyter notebook SRGANs_for_Medical_Images.ipynb
 
 ### Example Images:
 - **Input**: Low-resolution medical image.
-  ![Low-Resolution](images/lr.jpg)
+![Low-Resolution](images/lr.jpg)
 - **Output**: High-resolution reconstructed image.
-  ![High-Resolution](images/hr.jpg)
+![High-Resolution](images/hr.jpg)
 
 ## Future Work
 - **Model Improvements**:
